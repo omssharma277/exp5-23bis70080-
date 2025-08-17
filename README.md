@@ -13,15 +13,13 @@ To practice real-time DOM manipulation in JavaScript by dynamically filtering an
 ![Code Screenshot](assets/html.png)
 ![Code Screenshot](assets/html1.png)
 ![Code Screenshot](assets/html2.png)
-![Code Screenshot](assets/html3.png)
-![Code Screenshot](assets/htm4.png)
 
 ## Output Screenshot
 ![Output Screenshot](assets/output.png)
 ![Output Screenshot](assets/output1.png)
 ![Output Screenshot](assets/output2.png)
 ![Output Screenshot](assets/output3.png)
-![Output Screenshot](assets/output4.png)
+
 
 ## Learning Outcomes
 - Learned how to create and manipulate arrays of data in JavaScript.  
